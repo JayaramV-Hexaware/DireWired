@@ -1,0 +1,17 @@
+{
+  "id": "Warp nexus_50,115,659",
+  "name": "Warp nexus",
+  "icon": "waypoint-normal.png",
+  "x": 50,
+  "y": 115,
+  "z": 659,
+  "r": 195,
+  "g": 85,
+  "b": 112,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

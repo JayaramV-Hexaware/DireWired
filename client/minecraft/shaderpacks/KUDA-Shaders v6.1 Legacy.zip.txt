@@ -1,0 +1,12 @@
+#Sat Nov 16 10:44:15 CST 2019
+vlQuality=0.75
+minimumLight=false
+vlRenderDistance=40.0
+windyTerrain=false
+heatwave=false
+ambientOcclusion=true
+HQFocus=false
+clouds=false
+raindropsOnScreen=false
+shadowMapResolution=1024
+parallaxOcclusionMapping=true

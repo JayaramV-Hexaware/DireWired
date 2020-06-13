@@ -1,0 +1,17 @@
+{
+  "id": "Trading area_523,72,2217",
+  "name": "Trading area",
+  "icon": "waypoint-normal.png",
+  "x": 523,
+  "y": 72,
+  "z": 2217,
+  "r": 185,
+  "g": 106,
+  "b": 145,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

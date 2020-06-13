@@ -1,0 +1,17 @@
+{
+  "id": "SILVERWOOD_-955,71,2023",
+  "name": "SILVERWOOD",
+  "icon": "waypoint-normal.png",
+  "x": -955,
+  "y": 71,
+  "z": 2023,
+  "r": 52,
+  "g": 199,
+  "b": 108,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

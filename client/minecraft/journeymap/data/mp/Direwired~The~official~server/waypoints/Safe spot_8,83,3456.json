@@ -1,0 +1,17 @@
+{
+  "id": "Safe spot_8,83,3456",
+  "name": "Safe spot",
+  "icon": "waypoint-normal.png",
+  "x": 8,
+  "y": 83,
+  "z": 3456,
+  "r": 166,
+  "g": 219,
+  "b": 75,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

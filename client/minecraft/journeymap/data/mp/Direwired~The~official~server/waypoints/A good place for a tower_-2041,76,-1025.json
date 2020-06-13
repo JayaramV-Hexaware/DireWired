@@ -1,0 +1,17 @@
+{
+  "id": "A good place for a tower_-2041,76,-1025",
+  "name": "A good place for a tower",
+  "icon": "waypoint-normal.png",
+  "x": -2041,
+  "y": 76,
+  "z": -1025,
+  "r": 214,
+  "g": 152,
+  "b": 31,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

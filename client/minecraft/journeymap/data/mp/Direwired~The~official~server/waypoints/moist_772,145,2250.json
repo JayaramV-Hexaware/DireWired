@@ -1,0 +1,17 @@
+{
+  "id": "moist_772,145,2250",
+  "name": "moist",
+  "icon": "waypoint-normal.png",
+  "x": 772,
+  "y": 145,
+  "z": 2250,
+  "r": 100,
+  "g": 33,
+  "b": 2,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    6
+  ]
+}

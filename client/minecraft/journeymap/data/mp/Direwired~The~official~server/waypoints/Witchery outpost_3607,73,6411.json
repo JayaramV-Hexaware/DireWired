@@ -1,0 +1,17 @@
+{
+  "id": "Witchery outpost_3607,73,6411",
+  "name": "Witchery outpost",
+  "icon": "waypoint-normal.png",
+  "x": 3607,
+  "y": 73,
+  "z": 6411,
+  "r": 207,
+  "g": 0,
+  "b": 16,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

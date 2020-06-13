@@ -1,0 +1,17 @@
+{
+  "id": "Jet fuel plant ex_-3528,87,3704",
+  "name": "Jet fuel plant ex",
+  "icon": "waypoint-normal.png",
+  "x": -3528,
+  "y": 87,
+  "z": 3704,
+  "r": 74,
+  "g": 167,
+  "b": 221,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Yellow pylon_-2528,85,7340",
+  "name": "Yellow pylon",
+  "icon": "waypoint-normal.png",
+  "x": -2528,
+  "y": 85,
+  "z": 7340,
+  "r": 240,
+  "g": 205,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

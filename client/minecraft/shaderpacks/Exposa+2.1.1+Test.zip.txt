@@ -1,0 +1,10 @@
+#Sat Nov 16 11:10:40 CST 2019
+weakDistortFactor=true
+DOF=false
+VibrantNoon=true
+LensFlare=false
+Vignette=false
+TAA=false
+cinematicBars=false
+MotionBlur=false
+nightVision=false

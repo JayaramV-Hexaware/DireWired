@@ -1,0 +1,17 @@
+{
+  "id": "Chroma mines_-1653,21,344",
+  "name": "Chroma mines",
+  "icon": "waypoint-normal.png",
+  "x": -1653,
+  "y": 21,
+  "z": 344,
+  "r": 9,
+  "g": 100,
+  "b": 34,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

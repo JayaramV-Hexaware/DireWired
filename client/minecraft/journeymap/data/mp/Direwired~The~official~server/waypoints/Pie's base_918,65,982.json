@@ -1,0 +1,17 @@
+{
+  "id": "Pie\u0027s base_918,65,982",
+  "name": "Pie\u0027s base",
+  "icon": "waypoint-normal.png",
+  "x": 918,
+  "y": 65,
+  "z": 982,
+  "r": 152,
+  "g": 33,
+  "b": 150,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

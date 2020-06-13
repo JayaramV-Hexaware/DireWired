@@ -1,0 +1,17 @@
+{
+  "id": "Deep caves_51,2,1599",
+  "name": "Deep caves",
+  "icon": "waypoint-normal.png",
+  "x": 51,
+  "y": 2,
+  "z": 1599,
+  "r": 51,
+  "g": 129,
+  "b": 203,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

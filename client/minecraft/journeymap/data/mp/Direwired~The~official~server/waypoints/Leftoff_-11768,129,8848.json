@@ -1,0 +1,17 @@
+{
+  "id": "Leftoff_-11768,129,8848",
+  "name": "Leftoff",
+  "icon": "waypoint-normal.png",
+  "x": -11768,
+  "y": 129,
+  "z": 8848,
+  "r": 190,
+  "g": 197,
+  "b": 168,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}

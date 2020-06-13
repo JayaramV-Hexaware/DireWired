@@ -1,0 +1,17 @@
+{
+  "id": "Other warp nexus_-426,112,220",
+  "name": "Other warp nexus",
+  "icon": "waypoint-normal.png",
+  "x": -426,
+  "y": 112,
+  "z": 220,
+  "r": 207,
+  "g": 9,
+  "b": 148,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

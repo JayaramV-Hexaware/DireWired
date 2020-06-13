@@ -1,0 +1,9 @@
+#Sat Nov 16 10:49:28 CST 2019
+WAVING_LAVA=false
+Ice_reflections=true
+DOF=false
+Portal_reflections=true
+WAVING_GRASS=false
+VIGNETTE=false
+TONEMAP=false
+WAVING_SAPLINGS=false

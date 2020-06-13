@@ -1,0 +1,17 @@
+{
+  "id": "RC area_93,78,1836",
+  "name": "RC area",
+  "icon": "waypoint-normal.png",
+  "x": 93,
+  "y": 78,
+  "z": 1836,
+  "r": 193,
+  "g": 193,
+  "b": 216,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

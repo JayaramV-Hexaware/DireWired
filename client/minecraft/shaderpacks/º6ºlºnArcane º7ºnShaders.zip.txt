@@ -1,0 +1,12 @@
+#Sat Nov 16 11:01:18 CST 2019
+dynamicWeather=true
+minimumLight=false
+airDensity=2.0
+heatwave=false
+ambientOcclusion=true
+HQFocus=false
+animateUsingWorldTime=true
+fixUndergroundShadows=true
+raindropsOnScreen=false
+parallaxOcclusionMapping=true
+windSpeed=0.6

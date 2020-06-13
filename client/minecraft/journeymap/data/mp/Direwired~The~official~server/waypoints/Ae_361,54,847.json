@@ -1,0 +1,17 @@
+{
+  "id": "Ae_361,54,847",
+  "name": "Ae",
+  "icon": "waypoint-normal.png",
+  "x": 361,
+  "y": 54,
+  "z": 847,
+  "r": 74,
+  "g": 184,
+  "b": 244,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -42
+  ]
+}

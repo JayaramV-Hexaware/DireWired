@@ -1,0 +1,17 @@
+{
+  "id": "Oak wood_585,76,1592",
+  "name": "Oak wood",
+  "icon": "waypoint-normal.png",
+  "x": 585,
+  "y": 76,
+  "z": 1592,
+  "r": 168,
+  "g": 103,
+  "b": 52,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

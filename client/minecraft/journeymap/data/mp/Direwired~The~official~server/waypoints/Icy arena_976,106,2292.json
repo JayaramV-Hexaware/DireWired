@@ -1,0 +1,17 @@
+{
+  "id": "Icy arena_976,106,2292",
+  "name": "Icy arena",
+  "icon": "waypoint-normal.png",
+  "x": 976,
+  "y": 106,
+  "z": 2292,
+  "r": 52,
+  "g": 70,
+  "b": 233,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

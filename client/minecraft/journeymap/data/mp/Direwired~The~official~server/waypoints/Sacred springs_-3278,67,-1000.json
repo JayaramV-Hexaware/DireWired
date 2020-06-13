@@ -1,0 +1,17 @@
+{
+  "id": "Sacred springs_-3278,67,-1000",
+  "name": "Sacred springs",
+  "icon": "waypoint-normal.png",
+  "x": -3278,
+  "y": 67,
+  "z": -1000,
+  "r": 0,
+  "g": 152,
+  "b": 57,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

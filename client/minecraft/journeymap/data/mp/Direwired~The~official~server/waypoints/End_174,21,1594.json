@@ -1,0 +1,17 @@
+{
+  "id": "End_174,21,1594",
+  "name": "End",
+  "icon": "waypoint-normal.png",
+  "x": 174,
+  "y": 21,
+  "z": 1594,
+  "r": 211,
+  "g": 19,
+  "b": 47,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

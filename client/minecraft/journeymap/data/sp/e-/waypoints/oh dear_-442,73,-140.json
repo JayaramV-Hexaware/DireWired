@@ -1,0 +1,17 @@
+{
+  "id": "oh dear_-442,73,-140",
+  "name": "oh dear",
+  "icon": "waypoint-normal.png",
+  "x": -442,
+  "y": 73,
+  "z": -140,
+  "r": 251,
+  "g": 252,
+  "b": 12,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,19 @@
+#Mon Nov 25 23:36:11 CST 2019
+Waving_Fire=false
+emissive_B=0.7
+defskybox=true
+Godrays_Density=4.6
+Contrast=1.8
+shadowMapResolution=2048
+ao_strength=4.0
+cloud_height=96.0
+bloom_strength=2.0
+DoF_Strength=120
+Moonlight=0.0015
+Waving_Grass=false
+Godrays=true
+Rain_Drops=false
+emissive_R=0.9
+watertex=true
+animationSpeed=0.5
+emissive_G=0.9

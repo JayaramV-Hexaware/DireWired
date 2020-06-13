@@ -1,0 +1,17 @@
+{
+  "id": "Distant_9965,67,35",
+  "name": "Distant",
+  "icon": "waypoint-normal.png",
+  "x": 9965,
+  "y": 67,
+  "z": 35,
+  "r": 200,
+  "g": 228,
+  "b": 76,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

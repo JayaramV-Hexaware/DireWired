@@ -1,0 +1,17 @@
+{
+  "id": "Wap\u0027s chamber_77,71,1794",
+  "name": "Wap\u0027s chamber",
+  "icon": "waypoint-normal.png",
+  "x": 77,
+  "y": 71,
+  "z": 1794,
+  "r": 13,
+  "g": 94,
+  "b": 188,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

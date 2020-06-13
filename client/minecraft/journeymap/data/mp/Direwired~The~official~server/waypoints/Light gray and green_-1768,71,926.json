@@ -1,0 +1,17 @@
+{
+  "id": "Light gray and green_-1768,71,926",
+  "name": "Light gray and green",
+  "icon": "waypoint-normal.png",
+  "x": -1768,
+  "y": 71,
+  "z": 926,
+  "r": 26,
+  "g": 168,
+  "b": 165,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

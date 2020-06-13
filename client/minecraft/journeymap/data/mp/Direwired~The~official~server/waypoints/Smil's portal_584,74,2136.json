@@ -1,0 +1,17 @@
+{
+  "id": "Smil\u0027s portal_584,74,2136",
+  "name": "Smil\u0027s portal",
+  "icon": "waypoint-normal.png",
+  "x": 584,
+  "y": 74,
+  "z": 2136,
+  "r": 130,
+  "g": 80,
+  "b": 126,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    -1
+  ]
+}
